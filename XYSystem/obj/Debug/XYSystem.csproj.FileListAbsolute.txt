@@ -21,3 +21,9 @@ C:\Users\Administrator\Desktop\WorkSet\XYSystem\XYSystem\obj\Debug\XYSystem.pdb
 C:\Users\Administrator\Desktop\WorkSet\XYSystem\XYSystem\bin\Debug\XYSystem.exe
 C:\Users\Administrator\Desktop\WorkSet\XYSystem\XYSystem\bin\Debug\XYSystem.pdb
 C:\Users\Administrator\Desktop\WorkSet\XYSystem\XYSystem\obj\Debug\XYSystem.csprojResolveAssemblyReference.cache
+G:\GITF\XYSystem\XYSystem\bin\Debug\XYSystem.exe.config
+G:\GITF\XYSystem\XYSystem\obj\Debug\XYSystem.exe
+G:\GITF\XYSystem\XYSystem\obj\Debug\XYSystem.pdb
+G:\GITF\XYSystem\XYSystem\bin\Debug\XYSystem.exe
+G:\GITF\XYSystem\XYSystem\bin\Debug\XYSystem.pdb
+G:\GITF\XYSystem\XYSystem\obj\Debug\XYSystem.csprojResolveAssemblyReference.cache

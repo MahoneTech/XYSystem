@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace XYSystem
 {
-    class XYEntity
+    public class XYEntity
     {
         /// <summary>
         /// 股票ID
